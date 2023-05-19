@@ -1,0 +1,8 @@
+4) Write a JavaScript program to generate a Random number.
+
+To generate a random number program is as follows - 
+
+// Random Number in Javascript
+
+const a = Math.random();
+console.log(a);

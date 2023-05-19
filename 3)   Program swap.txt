@@ -1,0 +1,12 @@
+3) Write a JavaScript program in two different for swapping two
+variables.
+
+We can write JavaScript code to swap two variables by:-
+
+Adding third variable
+without using third variable 
+with the destructing assignment 
+
+for example 
+
+

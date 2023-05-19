@@ -1,0 +1,13 @@
+1) Define Functions in JavaScript Programming Language.
+
+--- 
+A JavaScript Function is defined with the function keyword , Followed by a name, followed by parentheses ().
+
+Function can contain letters , digits , dollar signs
+
+The parentheses  may include parameter names seperated by commas : 
+
+Example -- 
+Function name (parameter1 , parmeter2 , parameter3) {
+
+}

@@ -1,0 +1,23 @@
+2) Mention the different ways to write functions in JavaScript
+Programming along with source code.
+
+There are 3 ways to write function in JavaScript
+1. Function Declaration
+2. Function Expression
+3. Function Constructor
+
+Example 
+
+
+         //Function Declaration
+        function add(a,b)  {
+            console.log (a+b);
+        }
+
+        // calling a function 
+        add(2,3);
+
+
+
+
+
